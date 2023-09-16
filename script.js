@@ -35,7 +35,6 @@ document.addEventListener('keydown', function (e) {
   }
 });
 
-
 ///////////////////////////////////////
 // Button scrolling
 btnScrollTo.addEventListener('click', function(e) {
@@ -73,7 +72,6 @@ btnScrollTo.addEventListener('click', function(e) {
 //     document.querySelector(id).scrollIntoView({ behavior: 'smooth' });
 //   })
 // });
-
 // 1. Add event listener to common parent element
 // 2. Determine what element originated the event
 
@@ -195,7 +193,6 @@ const imgObserver = new IntersectionObserver(loadImg, {
 });
 
 imgTargets.forEach(img => imgObserver.observe(img));
-
 
 ///////////////////////////////////////
 // Slider
