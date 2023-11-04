@@ -15,5 +15,5 @@ Everything you need in a modern bank and more.
 
 # Hero
 <a href="https://omnifood-andrii-mysaka.netlify.app" target="_blank">
-<img src="./project-preview.png.png" style="max-width:100%;"></a>
+<img src="./project-preview.png" style="max-width:100%;"></a>
 
